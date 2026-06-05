@@ -16,7 +16,7 @@ dependencies = [
     "imageio-ffmpeg==0.4.7",
     "decord",
     "xformers==0.0.23",
-    "einops==0.4.1",
+    "einops==0.8.0",
     "easydict",
     "tqdm",
     "OpenEXR==3.3.1"
