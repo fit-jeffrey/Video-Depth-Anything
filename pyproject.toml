@@ -6,20 +6,20 @@ readme = "README.md"
 requires-python = ">=3.9"
 
 dependencies = [
-    "numpy==1.24.0",
-    "torch==2.12.0",
-    "torchvision==0.27.0",
+    "numpy",
+    "torch",
+    "torchvision",
     "opencv-python",
     "matplotlib",
     "pillow",
-    "imageio==2.37.0",
-    "imageio-ffmpeg==0.4.7",
+    "imageio",
+    "imageio-ffmpeg",
     "decord",
-    "xformers==0.0.23",
-    "einops==0.8.0",
+    "xformers",
+    "einops",
     "easydict",
     "tqdm",
-    "OpenEXR==3.3.1"
+    "OpenEXR"
 ]
 
 [build-system]
